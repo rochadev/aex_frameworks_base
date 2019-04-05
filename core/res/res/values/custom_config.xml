@@ -1,4 +1,7 @@
 <resources>
-<!-- Whether to send camera status intent -->
+    <!-- Whether to send camera status intent -->
     <bool name="config_sendCameraStatusIntent">false</bool>
+
+    <!-- Shows the required view for in-display fingerprint -->
+    <bool name="config_supportsInDisplayFingerprint">false</bool>
 </resources>
